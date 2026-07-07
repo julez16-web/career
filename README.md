@@ -38,9 +38,15 @@ The EN and DE pages render the **same components** driven by `content/en.js` and
 ```bash
 npm install
 npm run dev       # local dev server
-npm run build     # → dist/
+npm run build     # client build + SSR build + prerender → dist/
 npm run preview   # serve the production build
 ```
+
+`npm run build` prerenders all three pages: the SSR bundle (`dist-ssr/`) renders
+the full page HTML into the shells, so search engines, AI crawlers and no-JS
+visitors see the complete content; the client bundle hydrates it for
+interactivity. SEO extras: `robots.txt`, `sitemap.xml`, canonical + `hreflang`
+links between EN/DE, and JSON-LD `Person` markup.
 
 > **Local note:** clean routes (`/de`, `/impressum`) are provided by Vercel's
 > `cleanUrls`. Under `vite preview` locally, use `/de.html` and `/impressum.html`.
