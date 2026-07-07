@@ -161,11 +161,12 @@ export default function Impressum() {
 
         <h3 style={h3}>5. Hosting &amp; Server-Logfiles</h3>
         <p style={{ ...body, margin: '0 0 20px' }}>
-          Beim Aufruf dieser Website erhebt der Hosting-Anbieter technisch notwendige Zugriffsdaten (z. B.
-          IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seite, Browsertyp) in Server-Logfiles. Diese
-          Verarbeitung ist zur sicheren und stabilen Bereitstellung der Website erforderlich; Rechtsgrundlage ist
-          Art. 6 Abs. 1 lit. f DSGVO.{' '}
-          <em>Hinweis: Name und Anschrift des Hosting-Anbieters hier ergänzen, sobald das Hosting feststeht.</em>
+          Diese Website wird auf eigener Infrastruktur des Verantwortlichen in Deutschland betrieben
+          (Self-Hosting); ein externer Hosting-Anbieter kommt nicht zum Einsatz. Beim Aufruf der Website werden
+          technisch notwendige Zugriffsdaten (z. B. IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene
+          Seite, Browsertyp) in Server-Logfiles verarbeitet, soweit dies zur sicheren und stabilen Bereitstellung
+          der Website erforderlich ist; Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Eine Weitergabe dieser
+          Daten an Dritte erfolgt nicht.
         </p>
 
         <h3 style={h3}>6. Ihre Rechte</h3>
@@ -181,8 +182,8 @@ export default function Impressum() {
 
         <p style={{ margin: '32px 0 0', fontSize: '13px', color: '#9aa5af' }}>Stand: Juli 2026</p>
         <p style={{ margin: '14px 0 0', fontSize: '12.5px', color: '#b3bcc4', lineHeight: 1.55 }}>
-          Dieser Text ist ein sorgfältig erstellter Entwurf und ersetzt keine Rechtsberatung. Bitte vor
-          Veröffentlichung anwaltlich bzw. datenschutzrechtlich prüfen lassen und die Hosting-Angaben ergänzen.
+          Dieser Text ist ein sorgfältig erstellter Entwurf und ersetzt keine Rechtsberatung. Bitte bei Gelegenheit
+          anwaltlich bzw. datenschutzrechtlich prüfen lassen.
         </p>
       </div>
     </div>
