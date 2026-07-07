@@ -38,8 +38,8 @@ export const en = {
   profile: {
     eyebrow: 'Profile',
     paragraphs: [
-      "I'm an operations and transformation leader with full cost and result ownership (P&L) — from running a value stream in China to steering structural cost transformation across plants today. Repeatedly I've been handed systems that had to be built, integrated, or realigned — and brought each into independent, working execution.",
-      "My principle is a simple loop: solve the problem at its root, then return the solution to the standard — from the shop floor to governance across 35 plants. I'm seeking leadership and result responsibility in operations, manufacturing, or industrial transformation, and consciously orienting beyond core automotive toward regulated, precision-driven industries — medical technology, defense, aerospace, energy, semiconductors, industrial manufacturing — where operational steering and governance meet.",
+      "I'm an operations and transformation leader with full cost and result ownership (P&L) — from running a value stream in China to steering structural cost transformation across plants today. I have repeatedly taken over industrial systems that had to be built, integrated, or realigned — and led them into stable, independent execution.",
+      "My working principle is simple: solve causes, standardize solutions — from the shop floor to governance across 35 plants. I'm seeking leadership and result responsibility in operations, manufacturing, or industrial transformation — deliberately beyond core automotive. My focus is on regulated, precision-driven industries with high governance and scaling demands — such as medical technology, aerospace & defense, energy, semiconductors, or demanding industrial manufacturing.",
     ],
   },
 
@@ -53,7 +53,7 @@ export const en = {
         title: 'Project Lead — Horizon Plant Cost Transformation Program',
         company: 'Robert Bosch GmbH · Automotive Steering · reporting to the divisional management board',
         bullets: [
-          'Steer a cross-plant cost transformation across four sites — <strong>target −30 % value-added cost per unit</strong>; validated potential of <strong>€100–150M (lead plant)</strong> and €25–50M, consolidated into group-wide value-creation governance (VCP).',
+          'Steer a cross-plant cost transformation across four sites — with a <strong>double-digit target corridor on value-added cost</strong> and <strong>validated potential in the triple-digit millions</strong>; consolidated into group-wide value-creation governance (VCP).',
           'Established a clear implementation structure and transitioned the lead plant into stable, independent execution after handover.',
           'Rightsizing with judgment: structural cost reduction while preserving capability and retaining the workforce — targets met without loss of substance or engagement.',
         ],
@@ -129,7 +129,7 @@ export const en = {
   contact: {
     eyebrow: "Let's talk",
     heading: 'Ready for the next leadership step.',
-    para: 'Open to roles with direct leadership and result responsibility — in operations, manufacturing, industrialization or transformation. My focus is on regulated, precision-driven industries where governance and operational excellence come together: defense and aerospace, medical technology, energy, semiconductors and demanding industrial manufacturing — as well as automotive. What matters to me is the principle, not the sector.',
+    para: 'Open to roles with direct leadership and result responsibility — in operations, manufacturing, industrialization or transformation. My focus is on regulated, precision-driven industries with high governance and scaling demands — such as medical technology, aerospace & defense, energy, semiconductors, or demanding industrial manufacturing. What matters to me is the principle, not the sector.',
     email: 'julian@zarges.pro',
     phone: '+49 174 7511438',
     linkedinUrl: 'https://www.linkedin.com/in/julian-zarges/',

@@ -37,8 +37,8 @@ export const de = {
   profile: {
     eyebrow: 'Profil',
     paragraphs: [
-      'Ich bin eine Operations- und Transformationsführungskraft mit voller Kosten- und Ergebnisverantwortung (P&L) — vom eigenständig geführten Wertstrom in China bis zur werkübergreifenden Steuerung struktureller Kostentransformation heute. Wiederholt wurden mir Systeme anvertraut, die aufgebaut, integriert oder neu ausgerichtet werden mussten — und jeweils in eigenständige, funktionsfähige Umsetzung überführt.',
-      'Mein Prinzip ist eine einfache Schleife: das Problem an der Wurzel lösen und die Lösung in den Standard zurückführen — vom Shopfloor bis zur Governance über 35 Werke. Ich suche Führungs- und Ergebnisverantwortung in Operations, Fertigung oder industrieller Transformation und orientiere mich bewusst über das Kern-Automotive hinaus in regulierte, präzisionsgetriebene Industrien — Medizintechnik, Verteidigung, Luft- und Raumfahrt, Energie, Halbleiter, industrielle Fertigung —, in denen operative Steuerung und Governance zusammenkommen.',
+      'Ich bin eine Operations- und Transformationsführungskraft mit voller Kosten- und Ergebnisverantwortung (P&L) — vom eigenständig geführten Wertstrom in China bis zur werkübergreifenden Steuerung struktureller Kostentransformation heute. Wiederholt habe ich industrielle Systeme übernommen, die aufgebaut, integriert oder neu ausgerichtet werden mussten — und sie in stabile, eigenständige Umsetzung geführt.',
+      'Mein Arbeitsprinzip ist einfach: Ursachen lösen, Lösungen standardisieren — vom Shopfloor bis zur Governance über 35 Werke. Ich suche Führungs- und Ergebnisverantwortung in Operations, Fertigung oder industrieller Transformation — bewusst über das Kern-Automotive hinaus. Mein Fokus liegt auf regulierten, präzisionsgetriebenen Industrien mit hoher Governance- und Skalierungsanforderung — etwa Medizintechnik, Aerospace & Defense, Energie, Halbleiter oder anspruchsvolle industrielle Fertigung.',
     ],
   },
 
@@ -52,7 +52,7 @@ export const de = {
         title: 'Projektleiter — Horizon Werk-Kostentransformationsprogramm',
         company: 'Robert Bosch GmbH · Automotive Steering · Bericht an die Bereichsleitung',
         bullets: [
-          'Steuere ein werkübergreifendes Kostentransformationsprogramm über vier Standorte — <strong>Ziel −30 % Wertschöpfungskosten je Einheit</strong>; validierte Potenziale von <strong>100–150 Mio. € (Leitwerk)</strong> und 25–50 Mio. €, konsolidiert in die konzernweite Value-Creation-Governance (VCP).',
+          'Steuere ein werkübergreifendes Kostentransformationsprogramm über vier Standorte — mit <strong>zweistelligem Zielkorridor bei den Wertschöpfungskosten</strong> und <strong>validiertem Potenzial im dreistelligen Millionenbereich</strong>; konsolidiert in die konzernweite Value-Creation-Governance (VCP).',
           'Klare Umsetzungsstruktur etabliert und das Leitwerk nach Übergabe in stabile, eigenständige Umsetzung überführt.',
           'Rightsizing mit Augenmaß: strukturelle Kostensenkung bei erhaltener Leistungsfähigkeit und gehaltener Belegschaft — Zielerreichung ohne Substanz- oder Motivationsverlust.',
         ],
@@ -129,7 +129,7 @@ export const de = {
   contact: {
     eyebrow: 'Sprechen wir',
     heading: 'Bereit für den nächsten Führungsschritt.',
-    para: 'Offen für Rollen mit direkter Führungs- und Ergebnisverantwortung — in Operations, Fertigung, Industrialisierung oder Transformation. Mein Fokus liegt auf regulierten, präzisionsgetriebenen Branchen, in denen Governance und operative Exzellenz zusammenkommen: Verteidigung und Luft- und Raumfahrt, Medizintechnik, Energie, Halbleiter und anspruchsvolle industrielle Fertigung — ebenso wie im Automobilbereich. Für mich zählt das Prinzip, nicht die Branche.',
+    para: 'Offen für Rollen mit direkter Führungs- und Ergebnisverantwortung — in Operations, Fertigung, Industrialisierung oder Transformation. Mein Fokus liegt auf regulierten, präzisionsgetriebenen Industrien mit hoher Governance- und Skalierungsanforderung — etwa Medizintechnik, Aerospace & Defense, Energie, Halbleiter oder anspruchsvolle industrielle Fertigung. Für mich zählt das Prinzip, nicht die Branche.',
     email: 'julian@zarges.pro',
     phone: '+49 174 7511438',
     linkedinUrl: 'https://www.linkedin.com/in/julian-zarges/',
