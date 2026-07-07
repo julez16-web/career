@@ -115,12 +115,14 @@ export default function Impressum() {
           Markgröningen, Deutschland, E-Mail: <a href="mailto:julian@zarges.pro">julian@zarges.pro</a>.
         </p>
 
-        <h3 style={h3}>2. Grundsatz &amp; keine Tracking-Cookies</h3>
+        <h3 style={h3}>2. Grundsatz &amp; keine Cookies</h3>
         <p style={{ ...body, margin: '0 0 20px' }}>
-          Der Schutz Ihrer personenbezogenen Daten ist mir wichtig. Diese Website setzt keine Analyse-,
-          Marketing- oder Tracking-Cookies ein. Es findet keine Reichweitenmessung und kein Nutzer-Tracking statt.
-          Personenbezogene Daten werden nur verarbeitet, wenn Sie das Kontakt- bzw. CV-Anfrageformular nutzen oder
-          wenn dies technisch zur Auslieferung der Seite erforderlich ist.
+          Der Schutz Ihrer personenbezogenen Daten ist mir wichtig. Diese Website setzt keine Cookies ein und
+          erstellt keine Nutzerprofile. Zur statistischen Reichweitenmessung kommt ausschließlich eine selbst
+          gehostete, cookielose Analyse-Software zum Einsatz (siehe Ziffer 6); ein Tracking über andere Websites
+          hinweg findet nicht statt. Personenbezogene Daten werden darüber hinaus nur verarbeitet, wenn Sie das
+          Kontakt- bzw. CV-Anfrageformular nutzen oder wenn dies technisch zur Auslieferung der Seite
+          erforderlich ist.
         </p>
 
         <h3 style={h3}>3. CV-Anfrageformular</h3>
@@ -169,7 +171,18 @@ export default function Impressum() {
           Daten an Dritte erfolgt nicht.
         </p>
 
-        <h3 style={h3}>6. Ihre Rechte</h3>
+        <h3 style={h3}>6. Reichweitenmessung (Umami)</h3>
+        <p style={{ ...body, margin: '0 0 20px' }}>
+          Zur statistischen Auswertung der Seitennutzung setze ich die Open-Source-Software <strong>Umami</strong>{' '}
+          ein, die auf eigener Infrastruktur des Verantwortlichen betrieben wird. Erfasst werden Seitenaufrufe,
+          die verweisende Seite (Referrer), Browser- und Gerätetyp sowie das ungefähre Herkunftsland. Die
+          Erfassung erfolgt ohne Cookies; die IP-Adresse wird lediglich flüchtig zur Ermittlung des
+          Herkunftslandes verarbeitet und nicht gespeichert. Die erhobenen Daten lassen keine Identifizierung
+          einzelner Besucher zu und werden nicht an Dritte übermittelt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f
+          DSGVO (berechtigtes Interesse an einer anonymen Reichweitenmessung des eigenen Online-Angebots).
+        </p>
+
+        <h3 style={h3}>7. Ihre Rechte</h3>
         <p style={{ ...body, margin: '0 0 12px' }}>
           Sie haben jederzeit das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17),
           Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) sowie Widerspruch gegen die
